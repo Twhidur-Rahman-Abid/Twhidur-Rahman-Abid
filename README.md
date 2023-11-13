@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://scontent.fcgp3-1.fna.fbcdn.net/v/t39.30808-6/316833531_1871993579817547_5497191826792797866_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGGNgqHj-bujStN_ObZFsQwKpjvTzdaTYoqmO9PN1pNipp0m5II28TYSZlROwLC9_Y7W-dk4YqZXoOf2SdJYuCc&_nc_ohc=1DndrD2KztwAX_3rZcY&_nc_ht=scontent.fcgp3-1.fna&oh=00_AfCpkRMypbgtnIe2UAcM49p5pomAaBUaJ4PQL66Iy6m8Vg&oe=652FC374" align="center" style="width: 100%" />
+![image](https://github.com/Twhidur-Rahman-Abid/Twhidur-Rahman-Abid/assets/105661852/5d94e7c0-7249-4f2c-b0de-e11d6117c33e)
 </div>  
   
 
