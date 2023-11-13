@@ -1,7 +1,6 @@
 
-<div align="center">
-![image](https://github.com/Twhidur-Rahman-Abid/Twhidur-Rahman-Abid/assets/105661852/5d94e7c0-7249-4f2c-b0de-e11d6117c33e)
-</div>  
+![image](https://github.com/Twhidur-Rahman-Abid/Twhidur-Rahman-Abid/assets/105661852/37ee7350-586e-4e87-880f-cf524d884fc1)
+
   
 
 # **<div align="center">I'm Towhidur Rahman Abid <br> front-end react developer </div>**  
@@ -77,12 +76,15 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Twhidur-Rahman-Abid&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<table><tr><td valign="top" width="50%">
 
-<br/>  
+<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
+</td><td valign="top" width="50%">
 
-## Recent Blog Posts  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twhidur-Rahman-Abid&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
   
 
 <br/>  
@@ -92,7 +94,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+![Profile views counter](https://komarev.com/ghpvc/?username=Twhidur-Rahman-Abid&&style=flat-square)  
 </div>  
   
 
