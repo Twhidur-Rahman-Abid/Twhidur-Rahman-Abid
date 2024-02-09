@@ -3,7 +3,7 @@
 
   
 
-# **<div align="center">I'm Towhidur Rahman Abid <br> front-end react developer </div>**  
+# **<div align="center">I'm Towhidur Rahman Abed <br> front-end react developer </div>**  
   
 
 - 🔭 I’m currently working on [Advance Todo](https://github.com/Twhidur-Rahman-Abid/advance-todo)  
