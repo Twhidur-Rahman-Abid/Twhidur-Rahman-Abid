@@ -1,6 +1,6 @@
 
-![Frame 5](<img width="1584" height="396" alt="LinkedIn cover - 1" src="https://github.com/user-attachments/assets/d3455e92-a31b-47b8-aa16-d4147fbfab25" />
-)
+<img width="1584" height="396" alt="LinkedIn cover - 1" src="https://github.com/user-attachments/assets/741463af-c8f7-4191-a50a-71c4943185b6" />
+
 
 
   
