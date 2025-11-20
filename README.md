@@ -1,5 +1,6 @@
 
-![Frame 5](https://github.com/Twhidur-Rahman-Abid/Twhidur-Rahman-Abid/assets/105661852/642aff64-dbd8-4dd9-a047-6aafd4bdeda7)
+![Frame 5](<img width="1584" height="396" alt="LinkedIn cover - 1" src="https://github.com/user-attachments/assets/d3455e92-a31b-47b8-aa16-d4147fbfab25" />
+)
 
 
   
